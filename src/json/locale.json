@@ -1,0 +1,373 @@
+{
+    "translations": [
+      {
+        "language": "English",
+        "code": "en",
+        "translations": {
+          "wind": "wind",
+          "humidity": "humidity",
+          "cloud": "cloud"
+        }
+      },
+      {
+        "language": "Arabic",
+        "code": "ar",
+        "translations": {
+          "wind": "رياح",
+          "humidity": "رطوبة",
+          "cloud": "سحابة"
+        }
+      },
+      {
+        "language": "Bengali",
+        "code": "bn",
+        "translations": {
+          "wind": "বাতাস",
+          "humidity": "আর্দ্রতা",
+          "cloud": "মেঘ"
+        }
+      },
+      {
+        "language": "Bulgarian",
+        "code": "bg",
+        "translations": {
+          "wind": "вятър",
+          "humidity": "влажност",
+          "cloud": "облак"
+        }
+      },
+      {
+        "language": "Chinese Simplified",
+        "code": "zh",
+        "translations": {
+          "wind": "风",
+          "humidity": "湿度",
+          "cloud": "云"
+        }
+      },
+      {
+        "language": "Chinese Traditional",
+        "code": "zh_tw",
+        "translations": {
+          "wind": "風",
+          "humidity": "濕度",
+          "cloud": "雲"
+        }
+      },
+      {
+        "language": "Czech",
+        "code": "cs",
+        "translations": {
+          "wind": "vítr",
+          "humidity": "vlhkost",
+          "cloud": "oblak"
+        }
+      },
+      {
+        "language": "Danish",
+        "code": "da",
+        "translations": {
+          "wind": "vind",
+          "humidity": "luftfugtighed",
+          "cloud": "sky"
+        }
+      },
+      {
+        "language": "Dutch",
+        "code": "nl",
+        "translations": {
+          "wind": "wind",
+          "humidity": "vochtigheid",
+          "cloud": "wolk"
+        }
+      },
+      {
+        "language": "Finnish",
+        "code": "fi",
+        "translations": {
+          "wind": "tuuli",
+          "humidity": "ilman kosteus",
+          "cloud": "pilvi"
+        }
+      },
+      {
+        "language": "French",
+        "code": "fr",
+        "translations": {
+          "wind": "vent",
+          "humidity": "humidité",
+          "cloud": "nuage"
+        }
+      },
+      {
+        "language": "German",
+        "code": "de",
+        "translations": {
+          "wind": "Wind",
+          "humidity": "Luftfeuchtigkeit",
+          "cloud": "Wolke"
+        }
+      },
+      {
+        "language": "Greek",
+        "code": "el",
+        "translations": {
+          "wind": "άνεμος",
+          "humidity": "υγρασία",
+          "cloud": "σύννεφο"
+        }
+      },
+      {
+        "language": "Hindi",
+        "code": "hi",
+        "translations": {
+          "wind": "हवा",
+          "humidity": "नमी",
+          "cloud": "बादल"
+        }
+      },
+      {
+        "language": "Hungarian",
+        "code": "hu",
+        "translations": {
+          "wind": "szél",
+          "humidity": "páratartalom",
+          "cloud": "felhő"
+        }
+      },
+      {
+        "language": "Italian",
+        "code": "it",
+        "translations": {
+          "wind": "vento",
+          "humidity": "umidità",
+          "cloud": "nuvola"
+        }
+      },
+      {
+        "language": "Japanese",
+        "code": "ja",
+        "translations": {
+          "wind": "風",
+          "humidity": "湿度",
+          "cloud": "雲"
+        }
+      },
+      {
+        "language": "Javanese",
+        "code": "jv",
+        "translations": {
+          "wind": "angin",
+          "humidity": "kelembapan",
+          "cloud": "awan"
+        }
+      },
+      {
+        "language": "Korean",
+        "code": "ko",
+        "translations": {
+          "wind": "바람",
+          "humidity": "습도",
+          "cloud": "구름"
+        }
+      },
+      {
+        "language": "Mandarin",
+        "code": "zh_cmn",
+        "translations": {
+          "wind": "风",
+          "humidity": "湿度",
+          "cloud": "云"
+        }
+      },
+      {
+        "language": "Marathi",
+        "code": "mr",
+        "translations": {
+          "wind": "हवा",
+          "humidity": "आर्द्रता",
+          "cloud": "ढग"
+        }
+      },
+      {
+        "language": "Polish",
+        "code": "pl",
+        "translations": {
+          "wind": "wiatr",
+          "humidity": "wilgotność",
+          "cloud": "chmura"
+        }
+      },
+      {
+        "language": "Portuguese",
+        "code": "pt",
+        "translations": {
+          "wind": "vento",
+          "humidity": "umidade",
+          "cloud": "nuvem"
+        }
+      },
+      {
+        "language": "Punjabi",
+        "code": "pa",
+        "translations": {
+          "wind": "ਹਵਾ",
+          "humidity": "ਨਮੀ",
+          "cloud": "ਬੱਦਲ"
+        }
+      },
+      {
+        "language": "Romanian",
+        "code": "ro",
+        "translations": {
+          "wind": "vânt",
+          "humidity": "umiditate",
+          "cloud": "nor"
+        }
+      },
+      {
+        "language": "Russian",
+        "code": "ru",
+        "translations": {
+          "wind": "ветер",
+          "humidity": "влажность",
+          "cloud": "облако"
+        }
+      },
+      {
+        "language": "Serbian",
+        "code": "sr",
+        "translations": {
+          "wind": "ветар",
+          "humidity": "влажност",
+          "cloud": "облак"
+        }
+      },
+      {
+        "language": "Sinhalese",
+        "code": "si",
+        "translations": {
+          "wind": "වැසි",
+          "humidity": "උස",
+          "cloud": "වලාව"
+        }
+      },
+      {
+        "language": "Slovak",
+        "code": "sk",
+        "translations": {
+          "wind": "vietor",
+          "humidity": "vlhkosť",
+          "cloud": "oblačnosť"
+        }
+      },
+      {
+        "language": "Spanish",
+        "code": "es",
+        "translations": {
+          "wind": "viento",
+          "humidity": "humedad",
+          "cloud": "nubes"
+        }
+      },
+      {
+        "language": "Swedish",
+        "code": "sv",
+        "translations": {
+          "wind": "vind",
+          "humidity": "luftfuktighet",
+          "cloud": "moln"
+        }
+      },
+      {
+        "language": "Tamil",
+        "code": "ta",
+        "translations": {
+          "wind": "காற்று",
+          "humidity": "ஈர்க்கம்",
+          "cloud": "மேகம்"
+        }
+      },
+      {
+        "language": "Telugu",
+        "code": "te",
+        "translations": {
+          "wind": "గాలి",
+          "humidity": "ఆపోషణ",
+          "cloud": "మేఘం"
+        }
+      },
+      {
+        "language": "Turkish",
+        "code": "tr",
+        "translations": {
+          "wind": "rüzgar",
+          "humidity": "nem",
+          "cloud": "bulut"
+        }
+      },
+      {
+        "language": "Ukrainian",
+        "code": "uk",
+        "translations": {
+          "wind": "вітер",
+          "humidity": "вологість",
+          "cloud": "хмара"
+        }
+      },
+      {
+        "language": "Urdu",
+        "code": "ur",
+        "translations": {
+          "wind": "ہوا",
+          "humidity": "نمی",
+          "cloud": "بادل"
+        }
+      },
+      {
+        "language": "Vietnamese",
+        "code": "vi",
+        "translations": {
+          "wind": "gió",
+          "humidity": "độ ẩm",
+          "cloud": "mây"
+        }
+      },
+      {
+        "language": "Wu (Shanghainese)",
+        "code": "zh_wuu",
+        "translations": {
+          "wind": "风",
+          "humidity": "湿度",
+          "cloud": "云"
+        }
+      },
+      {
+        "language": "Xiang",
+        "code": "zh_hsn",
+        "translations": {
+          "wind": "风",
+          "humidity": "湿度",
+          "cloud": "云"
+        }
+      },
+      {
+        "language": "Yue (Cantonese)",
+        "code": "zh_yue",
+        "translations": {
+          "wind": "風",
+          "humidity": "濕度",
+          "cloud": "雲"
+        }
+      },
+      {
+        "language": "Zulu",
+        "code": "zu",
+        "translations": {
+          "wind": "umoya",
+          "humidity": "ukunyakaza",
+          "cloud": "inyanga"
+        }
+      }
+    ]
+  }
