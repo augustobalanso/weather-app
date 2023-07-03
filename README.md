@@ -1,6 +1,6 @@
 # Weather Widget
 
-This is a weather widget built with Next.js, which allows users to get the current weather information for their browser's location.
+This is a weather widget built in Next.js, which allows users to get the current weather information for their browser's location.
 
 ![Weather Widget Demo](demo.gif)
 
@@ -11,7 +11,7 @@ This is a weather widget built with Next.js, which allows users to get the curre
 - Display current weather information for a specified location.
 - Retrieve weather data using the [WeatherAPI](https://www.weatherapi.com/), since APIkey is required, the API call is hidden from the client using an intermediary API located on server.
 - Since location in WeatherAPI lacks of precision, browser's geographical data is used to make another API call to [Geocode Free API](https://geocode.maps.co/)
-- 41 languages available, selection based on browser's language, default's to english if language is not found on locale.json.
+- 41 languages available, selection based on browser's language, defaults to english if browsers language is not found on locale.json.
 - Automatically detects user's location if permission is granted.
 
 ## Installation
