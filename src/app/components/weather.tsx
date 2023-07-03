@@ -59,7 +59,7 @@ export default function Weather() {
         }
 
         // IF LOCALE DOESN'T EXIST, DEFAULTS TO ENGLISH
-        const API_URL = `http://localhost:3000/api/weather?latitude=${geolocation.lat}&longitude=${geolocation.long}&localeCode=${locale?.code ? locale.code : 'en'}`
+        const API_URL = `./api/weather?latitude=${geolocation.lat}&longitude=${geolocation.long}&localeCode=${locale?.code ? locale.code : 'en'}`
 
         fetch(API_URL)
         .then(res => { 
